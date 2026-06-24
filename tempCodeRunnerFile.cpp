@@ -1,0 +1,1 @@
+cout<<d2.number<<endl;
