@@ -398,3 +398,7 @@ if __name__ == "__main__":
                              patch_size=args.patch_size, augment=True)
         print(f"  {len(ds)} 训练样本")
         print(f"  预处理管线测试通过 ✓")
+# 新家测试莫款
+# 新家位置编码
+# 宽大空间覅偶尔
+了迪斯科飞机
