@@ -292,7 +292,7 @@ def build_dataset(
             augment=augment,
             max_images=max_images,
         )
-demo
+
 
 # ============================================================
 # 5. 独立预处理脚本入口 — 命令行批量预处理工具
